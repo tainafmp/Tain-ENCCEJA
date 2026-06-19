@@ -33,3 +33,14 @@ O desenvolvimento utilizou tecnologias web puras (*Vanilla Web*), com foco em pe
 ---
 
 ## 📂 Estrutura de Pastas
+```text
+├── css/
+│   └── estilo.css          # Arquivo de estilo global otimizado do site
+├── index.html              # Página inicial (Apresentação do Exame)
+├── locais.html             # Centros de atendimento (CEJAs) com cartões compactos
+├── inscricao.html          # Guia de inscrição e regras de taxas por falta
+├── materiais.html          # Links das apostilas oficiais e provas anteriores
+├── prova.html              # Instruções e checklists para o dia do exame
+├── depoimentos.html        # Vídeos e relatos de alunos aprovados
+├── faq.html                # Central de dúvidas integrada com nova imagem
+└── homemEstudando.jpg      # Imagem ilustrativa da seção FAQ
