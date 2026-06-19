@@ -68,10 +68,9 @@ header {
     color: #FFFFFF;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    max-width: 100%;
+    justify-content: center;
+    width: 100%;
     padding: 4rem 2rem;
-    gap: 2rem;
 }
 
 .hero > * {
@@ -80,7 +79,7 @@ header {
 
 .hero-content {
     flex: 1;
-    max-width: 600px;
+    max-width: 550px;
 }
 
 .hero h2 {
@@ -99,7 +98,8 @@ header {
 .hero-image-wrapper {
     flex: 1;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end; 
+    max-width: 550px;
 }
 
 .hero-image {
